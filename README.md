@@ -6,7 +6,7 @@
   <a href="https://play.bountyseason.com"><img src="https://img.shields.io/badge/Season%200-playable%20now-FC7D07?style=flat-square" alt="Season 0 playable now"></a>
   <img src="https://img.shields.io/badge/chain-Robinhood%20Chain-1B2440?style=flat-square" alt="Robinhood Chain">
   <img src="https://img.shields.io/badge/contracts-testnet%20live-284F36?style=flat-square" alt="Contracts live on testnet">
-  <img src="https://img.shields.io/badge/token-%24BOUNTY%20pre--launch-3A334B?style=flat-square" alt="$BOUNTY pre-launch">
+  <a href="https://robinhoodchain.blockscout.com/token/0xc3e0ad35cb8e498cb5d5a429554827f4f6be9318"><img src="https://img.shields.io/badge/%24BOUNTY-live%20on%20Robinhood%20Chain-3A334B?style=flat-square" alt="$BOUNTY live on Robinhood Chain"></a>
 </p>
 
 <p align="center">
@@ -15,6 +15,12 @@
   <a href="https://bountyseason.com/docs"><b>Docs</b></a> ·
   <a href="https://bountyseason.com/chest"><b>Live chest</b></a> ·
   <a href="https://x.com/bountyRH"><b>@bountyRH</b></a>
+</p>
+
+<p align="center">
+  <b>$BOUNTY contract address</b> · Robinhood Chain<br>
+  <code>0xc3e0ad35cb8e498cb5d5a429554827f4f6be9318</code><br>
+  <a href="https://robinhoodchain.blockscout.com/token/0xc3e0ad35cb8e498cb5d5a429554827f4f6be9318">View on the explorer</a>
 </p>
 
 ---
@@ -177,7 +183,16 @@ Every poach and every capture becomes a **Poached!** or **Captured!** card with 
 
 Two guardians can pause a contract for 72 hours (the pause ends by itself), every admin change waits 24 hours in a public timelock, and nobody can move chest funds except through a timelocked payout root.
 
-The contracts are live on **Robinhood Chain testnet** while **$BOUNTY** is pre-launch. $BOUNTY launches as a fair launch with a fixed supply of 1,000,000,000, **0% team allocation** and no presale.
+The game's contracts run on **Robinhood Chain testnet** while they are reviewed for mainnet.
+
+**$BOUNTY** is live on Robinhood Chain: a fair launch with a fixed supply of 1,000,000,000, **0% team allocation** and no presale.
+
+| | |
+|---|---|
+| **Token** | $BOUNTY (Bounty Season) |
+| **Chain** | Robinhood Chain (chain id 4663) |
+| **Contract** | [`0xc3e0ad35cb8e498cb5d5a429554827f4f6be9318`](https://robinhoodchain.blockscout.com/token/0xc3e0ad35cb8e498cb5d5a429554827f4f6be9318) |
+| **Supply** | 1,000,000,000, no mint |
 
 ---
 
